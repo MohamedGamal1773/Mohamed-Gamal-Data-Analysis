@@ -1,0 +1,57 @@
+# Simple Calculator in Python
+
+## Overview
+This is a simple calculator project written in Python to practice basic programming concepts. The calculator allows the user to input two numbers and perform basic arithmetic operations like addition, subtraction, multiplication, division, and modulus.
+
+---
+
+## Features
+In this project, I applied the following concepts:  
+1. *Variables:* Used to store user inputs and results.  
+2. *Printing Output:* Displayed results using the print() function.  
+3. *Comments:* Added comments to explain the code.  
+4. *Data Types:* Worked with int, float, and str.  
+5. *Type Conversion:* Converted data between different types (e.g., int to str).  
+6. *String Manipulation:*  
+   - Converted strings to uppercase or lowercase.  
+   - Capitalized the first letter of each word.  
+7. *Input Handling:* Used the input() function to accept user inputs.  
+8. *Mathematical Operations:* Performed addition, subtraction, multiplication, division, and modulus operations.  
+9. *Boolean Logic:* Used comparison operators to check conditions and return True or False.  
+
+---
+
+## Code Functionality
+- The program asks the user to input two numbers.  
+- It performs the following operations:
+  - Addition (+)
+  - Subtraction (-)
+  - Multiplication (*)
+  - Division (/)
+  - Modulus (%)
+- The results are displayed on the screen.
+
+---
+
+## How to Run the Code
+1. Copy the Python code into any Python compiler or editor.  
+2. Use an [online compiler](https://www.programiz.com/python-programming/online-compiler/) or install Python locally on your computer.  
+3. Run the program and follow the prompts to input numbers and see the results.
+
+---
+
+## Example
+---
+
+## Concepts Practiced
+- Using quotes to display text as a "quote".  
+- Combining strings and integers in a single output.  
+- Performing operations on different data types and managing conversions.  
+
+---
+
+## Future Enhancements
+In the future, I plan to:
+1. Add more advanced operations (e.g., exponentiation or square roots).  
+2. Include error handling for invalid inputs.  
+3. Create a graphical interface for the calculator.
