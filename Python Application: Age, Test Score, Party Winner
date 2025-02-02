@@ -1,0 +1,40 @@
+
+Python Application: Age, Test Score, Party Winner
+
+This Python application demonstrates the use of conditional statements (if, elif, and else) to make decisions based on user input. The program interacts with the user in the following scenarios:
+
+Age Verification: Checks if the user is eligible to use the application based on their age.
+
+Test Score Evaluation: Assigns a grade based on the user's input score.
+
+Party Winner Check: Determines if the user is the winner based on a specific chair number.
+
+Birthday Celebration: Makes a congratulatory statement depending on the user's birth date input.
+
+Code Explanation
+
+print("Welcome To My Application") age = int(input("How old are you?\n")) if age >= 18: print("Very Good You Are Eligible to use this App") else: print("Sorry, You are Not Eligible to use this App") 
+
+This section checks if the user is 18 or older and informs them whether they are eligible to use the app.
+
+print("Welcome to test score Application") score = float(input("Please Enter your score\n")) if score >= 90: print("Congratulations You got A Grade!") elif score >= 75: print("You got B Grade! Keep Working") elif score >= 50: print("You got C Grade! You need to work hard") else: print("Sorry you got F Grade! Please Try Again") 
+
+Here, the user’s score is evaluated, and a grade is assigned based on the score.
+
+print("Welcome to our party") chair_number = int(input("Please What is your Chair number?\n")) if chair_number == 49: print("Congratulations you are the Winner Today") else: print("Sorry, Try again next party") 
+
+This section checks if the user has the winning chair number (49) and informs them accordingly.
+
+birthday = int(input("Enter your day of birth\n")) if birthday != 18: print("Congratulations") else: print("Sorry") 
+
+Lastly, this part checks if the user's birthday is not the 18th day of the month and prints a corresponding message.
+
+How to Run
+
+Clone or download the repository.
+
+Open the Python file in your preferred IDE or text editor.
+
+Run the file and follow the prompts.
+
+Feel free to copy and paste this README into your repository. Let me know if you need any changes!
